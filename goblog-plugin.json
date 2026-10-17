@@ -1,0 +1,12 @@
+{
+  "name": "projects",
+  "display_name": "Projects",
+  "description": "A Projects page listing your GitHub repositories, plus any projects you add by hand, cached and refreshed daily.",
+  "author": "Jason Ernst",
+  "license": "Apache-2.0",
+  "runtime": "wasm",
+  "entry": "plugin.wasm",
+  "allowed_hosts": ["api.github.com"],
+  "min_goblog_version": "0.3.0",
+  "homepage": "https://github.com/goblogplatform/goblog-plugin-projects"
+}
